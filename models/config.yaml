@@ -1,0 +1,7 @@
+path: C:\Users\oyldr\Desktop\automatic-number-plate-recognition-python-yolov8-main\models # dataset root dir
+train: train/images  # train images (relative to 'path')
+val: valid/images  # val images (relative to 'path')
+
+# Classes
+names:
+  0: plate
